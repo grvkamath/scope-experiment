@@ -6,7 +6,7 @@ Created on Thu Sep 15 13:04:39 2022
 """
 import os
 ## REPLACE PATH VARIABLE WITH LOCAL PATH
-path = "C:\\Users\\gaura\\Documents\\GitHub\\scope-experiment-tentative-pilot"
+path = "C:\\Users\\gaura\\Documents\\GitHub\\scope-experiment"
 
 os.chdir(path)
 import csv
@@ -69,6 +69,6 @@ list_for_conv = list_slicer(list_for_conv,n_splits)
 
 stimuli_as_jsonStr = json.dumps(list_for_conv)
 
-with open("js\\stimuli.js", "w", encoding="utf-8") as file:
+with open("js\\c_and_c_stimuli.js", "w", encoding="utf-8") as file:
     file.write("var all_stims = "+"\n"+stimuli_as_jsonStr)
     
