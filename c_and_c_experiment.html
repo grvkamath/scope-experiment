@@ -42,8 +42,69 @@
         You will read some sentences, along with possible continuations. <strong>Your task is to give your opinion on how natural-sounding
           each continuation is.</strong><br>
         <br>
-        The experiment will take approximately 15 minutes. Let's start with two examples!
-      </p><button id="start_button" type="button">Start experiment</button>
+        The experiment will take approximately 15 minutes. Read and agree to the consent form below, and we'll begin with two examples.
+      </p>
+      <br>
+      <p class="center"> <strong>CONSENT FORM</strong></p>
+      <p class="left" style="font-size:16px; color: darkslateblue;">
+        You are invited to participate in a research study looking at the cases of language that do and don't sound natural.<strong>
+          Please read this form carefully and ask any questions you may have before agreeing to take part in the study. 
+        </strong> 
+        <br>
+        <br>
+        <strong>Investigators: </strong>Dr. Siva Reddy (Assistant Professor of Linguistics and Computer Science at McGill University) 
+        and Dr. Michael Wagner (Professor of Linguistics at  McGill University), 
+        and students and research assistants under the two professors.
+        <br>
+        <br>
+        <strong>What this study is about: </strong>The purpose of this study is to investigate whether language AI systems are able to 
+        capture certain semantic structures present in natural language that humans are able to work with. 
+        This is investigated in terms of the types of continuations that language AI systems produce to certain types of phrases, 
+        and how these compare to human judgments of these continuations.
+        <br>
+        <br>
+        <strong>What we will ask you to do: </strong>In this study you read sentences and continuations, and answer questions about them. 
+        We will also ask to collect some general information about your age, gender, level of education, and language to be able to better interpret the data, 
+        <strong>but this part is wholly optional</strong>.
+        <br>
+        <br>
+        <strong>Risks and benefits: </strong>This experiment involves no known risks or discomfort to you beyond the risks of everyday life, nor is it expected to be of any direct benefit to you.
+        <br>
+        <br>
+        <strong>Compensation: </strong>You will be compensated according to the amount specified on the Prolific page. 
+        <br>
+        <br>
+        <strong>Use of your data: </strong>The data collected in this study will be stored on a secure server and on a cloud-storage service (either Google Drive or Dropbox). 
+        Your Prolific ID will not be directly linked to your data but will be stored separately (we only store the session ID). We will delete the separately stored Prolific ID from our files within 1 year at the latest.
+        <br>
+        The data we collect may also be used to illustrate the results of the research results in an online interactive site. 
+        The anonymized data may also be published as part of an anonymous corpus distributed for further research. By consenting to releasing your data as a corpus, you will help ensure that your contribution will have a more lasting impact.
+        <br>
+        <br>
+        <strong>Taking part is voluntary: </strong>Your participation is completely voluntary. You are free to withdraw consent and discontinue participation in the project at any time without penalty. 
+        However, data cannot be withdrawn after the information linking your Prolific ID to your data has been deleted. 
+        <br>
+        <br>
+        <strong>If you have any questions: </strong>You can contact Gaurav Kamath (email: gaurav.kamath@mail.mcgill.ca), graduate student under Dr. Siva Reddy, with any questions about this study. When communicating by email, 
+        please be aware that information provided in emails is not absolutely safe and may be intercepted. This experiment is being run under the McGill Research Ethics Board protocols #401-0409/#342-0118. 
+        If you have any questions or concerns regarding your rights as a subject in this study, you may contact the Research Ethics Board Office at 514-398-6831 or access their website at: 
+        <br>
+        https://www.mcgill.ca/research/researchers/compliance/human/reb-i-ii-iii
+        <br>
+        <br>
+        <strong>STATEMENT OF CONSENT: </strong><i>To give  your consent, please read the statement below, and click on it. If you do not consent, then you can just close the browser window now, your data will not be kept no file. 
+        Please print this page if you want to keep a record of this information!</i>
+      </p>
+
+      
+      <div class="center">
+        <button class="continueButton" onclick="_s.button()">
+          I consent to take part in the study. I agree to the anonymous use of the data in research presentations, publications, and online interactive sites to illustrate the findings. I agree that the collected data could be used in related follow-up studies. 
+          I agree to the use of the data in a not-for-profit anonymous corpus for research purposes which others will have access to.
+        </button>
+      </div>
+
+      <br>
     </div>
 
     <!-- first example slide -->
@@ -51,14 +112,14 @@
       <h3>
         Example 1
       </h3>
-      <p class="sentence" style="color:darkorange">
-        While totally sober, I crashed my car today...
+      <p class="sentence" style="color:#FFC20A">
+        Yesterday, I proposed to the love of my life...
       </p>
-      <p class="followup" style="color:darkblue">
-        but I don't know which one.
+      <p class="followup" style="color:#0C7BDC">
+        but I have no idea who I want to marry yet.
       </p>
       <div class="instruction">
-        <i> Generally speaking, how natural-sounding is the phrase in blue as a continuation to the phrase in orange?</i>
+        <i><strong>Generally speaking</strong>, how natural-sounding is the second phrase (the one in blue) as a continuation to the first phrase (the one in yellow)?</i>
       </div>
       <table class="likertscale">
         <tr>
@@ -128,10 +189,10 @@
       </div>
       <div class="badrating_err">
         <p>
-          In your rating, consider whether <b>'but I don't know which one'</b> is 
-          a natural continuation to <b>'While totally sober, I crashed my car today...'</b>. Here, it would seem 
-          odd for a person to say that they don't know which car they crashed, when they crashed it the 
-          same day while sober. Try giving this continuation another rating.
+          In your rating, consider whether <b>'but I have no idea who I want to marry yet'</b> is 
+          a natural continuation to <b>'Yesterday, I proposed to the love of my life...'</b>. Here, it would seem 
+          odd for a person to say that they haven't decided who they want to marry yet, when they proposed to someone they call 
+          'the love of their life' just the previous day. Try giving this continuation another rating.
         </p>
       </div>
     </div>
@@ -141,14 +202,14 @@
       <h3>
         Example 2
       </h3>
-      <p class="sentence" style="color:darkorange">
+      <p class="sentence" style="color:#FFC20A">
         I didn't have a meeting with a saleswoman today...
       </p>
-      <p class="followup" style="color:darkblue">
+      <p class="followup" style="color:#0C7BDC">
         because she was busy with something else.
       </p>
       <div class="instruction">
-        <i>Generally speaking, how natural-sounding is the phrase in blue as a continuation to the phrase in orange?</i>
+        <i><strong>Generally speaking</strong>, how natural-sounding is the second phrase (the one in blue) as a continuation to the first phrase (the one in yellow)?</i>
       </div>
       <table class="likertscale">
         <tr>
@@ -232,7 +293,7 @@
       <br>
       <p id="instruct-text" class="left">
         Great! Now we can start the real experiment. You will now read roughly 20 sentences. 
-        Your task is to rate how natural each phrase in blue is as a continuation to each phrase in orange.
+        Your task is to rate how natural each follow-up phrase is as a continuation to each starting phrase.
         For each continuation, you have the option (if you'd like—it would help us, but isn't mandatory) to explain, in as few words as you'd like, why it sounds natural or unnatural.
       </p>
       <div class="center">
@@ -247,19 +308,19 @@
       <!-- <p class="case" style="text-align: left;"></p> -->
       
       <!-- placeholders for stimuli -->
-      <p class="originalSen" id="trial-originalSen">
-        {{original sentence}}
+      <p class="Sen" id="trial-Sentence" style="color:#FFC20A">
+        {{sentence}}
       </p>
-      <p class="targetSen" id="trial-targetSen">
-        {{target sentence}}
+      <p class="Fol" id="trial-Followup" style="color:#0C7BDC">
+        {{followup}}
       </p>
       <div class="instruction">
-        <i>Generally speaking, how natural does the phrase in blue sound as a continuation to the sentence in orange?</i>
+        <i><strong>Generally speaking</strong>, how natural does the second phrase (the one in blue) sound as a continuation to the first phrase (the one in yellow)?</i>
       </div>
       <table class="likertscale">
         <tr>
           <td>
-            sounds completely weird
+            sounds completely unnatural
           </td>
           <td>
             <input type="radio" name="number" value="1">

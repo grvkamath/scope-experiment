@@ -7,8 +7,16 @@ function make_slides(f) {
     name: "i0",
     start: function() {
       exp.startT = Date.now();
-    }
-  });
+    },
+    log_responses: function() {
+      exp.consent.push({"consent": "I consent to take part in the study. I agree to the anonymous use of the data in research presentations, publications, and online interactive sites to illustrate the findings. I agree that the collected data could be used in related follow-up studies. I agree to the use of the data in a not-for-profit anonymous corpus for research purposes which others will have access to."})
+    },
+    button: function() {
+      this.log_responses()
+      exp.go(); //use exp.go() if and only if there is no "present" data.
+    },
+    })
+  
 
   // set up the first example slide
   slides.example1 = slide({
@@ -136,8 +144,8 @@ function make_slides(f) {
       this.stim = stim;
 
       // extract original and sentence with "but not all"
-      var original_sentence = stim.sentence;
-      var target_sentence = stim.followup;
+      var sentence = stim.sentence;
+      var followup = stim.followup;
 
       //handle display of context 
       // if (exp.condition == "context") {
@@ -153,8 +161,8 @@ function make_slides(f) {
       // }
 
       // replace the placeholder in the HTML document with the relevant sentences for this trial
-      $("#trial-originalSen").html(original_sentence);
-      $("#trial-targetSen").html(target_sentence);
+      $("#trial-Sentence").html(sentence);
+      $("#trial-Followup").html(followup);
       $(".err").hide();
       $('.comment_err').hide();
 
@@ -217,6 +225,7 @@ function make_slides(f) {
     name: "thanks",
     start: function() {
       exp.data = {
+        "consent": exp.consent,
         "trials": exp.data_trials,
         "catch_trials": exp.catch_trials,
         "system": exp.system,
@@ -241,6 +250,7 @@ function init() {
 
   exp.trials = [];
   exp.catch_trials = [];
+  exp.consent = [];
   var stimuli = all_stims;
 
   exp.stimuli = random_item(stimuli); //call _.shuffle(stimuli) to randomize the order;
