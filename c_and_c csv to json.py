@@ -14,7 +14,7 @@ import json
 csv_as_list = []
 list_for_conv = []
 
-with open("Continuations+ControlsAttempt1Sheet.csv", mode='r', encoding='utf-8-sig') as temp:
+with open("Continuations+ControlsAttempt2Sheet.csv", mode='r', encoding='utf-8-sig') as temp:
     csvreader = csv.reader(temp)
     header_entry = True
     for i in csvreader:
@@ -51,7 +51,9 @@ with open("Continuations+ControlsAttempt1Sheet.csv", mode='r', encoding='utf-8-s
             list_for_conv.append(list_for_conv_entry_Sc_f2)
             linecount+=1
 
-n_splits = 7
+batch_size = 20
+
+n_splits = (len(list_for_conv)//batch_size) + 1
 
 def list_slicer(List, N_splits):
     list_for_output = []
@@ -65,10 +67,14 @@ def list_slicer(List, N_splits):
             group=0
     return list_for_output
 
-list_for_conv = list_slicer(list_for_conv,n_splits)
+list_for_conv_sliced = list_slicer(list_for_conv,n_splits)
 
-stimuli_as_jsonStr = json.dumps(list_for_conv)
+stimuli_as_jsonStr = json.dumps(list_for_conv_sliced)
 
 with open("js\\c_and_c_stimuli.js", "w", encoding="utf-8") as file:
     file.write("var all_stims = "+"\n"+stimuli_as_jsonStr)
     
+stimuli_for_models_json = json.dumps(list_for_conv)
+
+with open("js\\c_and_c_model_stimuli.js","w",encoding='utf-8') as file:
+    file.write(stimuli_for_models_json)
