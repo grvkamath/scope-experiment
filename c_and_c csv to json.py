@@ -68,7 +68,7 @@ def list_slicer(List, N_splits):
             group=0
     return list_for_output
 
-random.seed(14)
+random.seed(42)
 random.shuffle(list_for_conv)
 
 list_for_conv_sliced = list_slicer(list_for_conv,n_splits)
