@@ -11,6 +11,7 @@ path = "C:\\Users\\gaura\\Documents\\GitHub\\scope-experiment"
 os.chdir(path)
 import csv
 import json
+import random
 csv_as_list = []
 list_for_conv = []
 
@@ -66,6 +67,9 @@ def list_slicer(List, N_splits):
         if group == N_splits:
             group=0
     return list_for_output
+
+random.seed(14)
+random.shuffle(list_for_conv)
 
 list_for_conv_sliced = list_slicer(list_for_conv,n_splits)
 
