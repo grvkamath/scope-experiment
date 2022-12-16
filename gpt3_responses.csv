@@ -1,0 +1,269 @@
+,idx,sentence,followup,ftype,stype,gpt3_response
+0,64,Every laptop is facing this glitch,and each glitch is causing major issues to users.,F2,Sc,-37.19776002
+1,66,You find every animal from The Lion King in most zoos,but other zoos each only have half of them.,F2,S,-39.144494566
+2,27,I didn't feed a dog,even though I was supposed to feed him.,F1,S,-20.494319898999997
+3,59,Some textbooks cite three authors on colonialism,and each trio of authors is well-respected.,F2,S,-38.17056985
+4,2,I will probably watch an episode of Tom and Jerry that I love,but I don't know which episode.,F2,S,-18.6923171
+5,57,A few people own most investment stocks,"because everyone wants to buy them, and everyone can afford to.",F2,S,-36.42553768
+6,63,Most graduate students shop from two thrift stores,and I'm sure each pair of thrift stores offers great deals.,F2,S,-52.808411029999995
+7,50,I sparred with two boxers,although it's a different pair of boxers each time.,F2,Sc,-37.0804197092
+8,3,A classmate of mine must tell me they love me,but I don't know which one.,F2,S,-16.58987705
+9,60,Most fast-food chains exclusively sell a brand of soda,because it's a popular brand of soda.,F1,S,-20.918374603
+10,53,I drank with most people I play chess against,even though it's a different set of people each time.,F2,Sc,-30.899269834999995
+11,13,I bought a sandwich from Subway,but I don't know which one.,F2,Sc,-16.956190630000002
+12,67,All students are supervised by these two professors,since we have more than enough professors.,F2,Sc,-31.410607300000002
+13,60,Most fast-food chains exclusively sell this brand of soda,because it's a popular brand of soda.,F1,Sc,-20.117826400000002
+14,47,I usually dust some shelves at home,because I enjoy cleaning those shelves.,F1,S,-25.008170099999997
+15,48,I greeted most people in my lab,since I like them even outside work.,F1,Sc,-35.450008000000004
+16,57,A few people own these investment stocks,"because although everyone wants to buy them, no one else can afford to.",F1,Sc,-43.407193427
+17,67,All students are supervised by two professors,since we don't have enough professors.,F1,S,-24.086717919999998
+18,51,I always wear a jacket before going out,as it's my favourite one.,F1,S,-21.3395506
+19,63,Most graduate students shop from these two thrift stores,and I'm sure each pair of thrift stores offers great deals.,F2,Sc,-50.54045327
+20,51,I wore a jacket before going out,as it's my favourite one.,F1,Sc,-24.1204284
+21,31,I missed most of Breaking Bad,as I only watched a couple episodes.,F1,Sc,-22.280323000000003
+22,61,Most honeybees search for these flowers,because the flowers are very fragrant.,F1,Sc,-18.5784536222
+23,19,I deserve to work at a Fortune 500 company,but I don't care which one.,F2,S,-20.68542584
+24,17,I tested most tools in the shop,and I know which tools those are.,F1,Sc,-25.939729749999998
+25,8,I will likely speak face-to-face with most of my classmates,but I don't know which ones those are.,F2,S,-25.965435499999998
+26,31,I missed most of Breaking Bad,because I watched only just over half the episodes.,F2,Sc,-29.56124863
+27,17,I want to test most tools in the shop,but I don't know which tools those are.,F2,S,-24.03404416
+28,55,Some farmers own this donkey,and the donkey is happy.,F1,Sc,-17.3812313
+29,20,I met all the extended members of my family,even though I don't know who they are yet.,F2,Sc,-24.587570869999997
+30,37,I condemned every statement the President made,as I thought every one of them was horrible.,F1,Sc,-29.358861159999996
+31,1,I met a close friend of mine in the morning,but I don't know which one.,F2,Sc,-21.798129269999997
+32,34,I didn't catch most balls at baseball practice yesterday,"in fact, I successfully made only three of the fifteen catches possible.",F1,S,-53.8026014
+33,46,I usually hammer a wall in the morning,but it's a different wall each time.,F2,S,-24.248539540000007
+34,61,Most honeybees search for some flowers,and each set of flowers is very fragrant.,F2,S,-36.451795653999994
+35,67,All students are supervised by two professors,since we have more than enough professors.,F2,S,-31.5683067
+36,62,Most T-shirts are made by all manufacturers,while some other T-shirts are produced under exclusive licenses.,F2,S,-33.230454696
+37,62,Most T-shirts are made by all manufacturers,as it's profitable for every manufacturer to make a wide-range of T-shirts.,F1,S,-50.187312880000015
+38,31,I didn't watch most of Breaking Bad,because I watched only just over half the episodes.,F2,S,-32.022256739999996
+39,56,Some local guitarists play with a few backing vocalists,and each set of backing vocalists is talented.,F2,S,-33.80829232800001
+40,2,I will probably watch an episode of Tom and Jerry that I love,and I know which episode.,F1,S,-21.023301
+41,20,I met all the extended members of my family,because I care deeply about them.,F1,Sc,-23.774332020000003
+42,65,All urban planners eat a few boxes of pizza,because we have more than enough pizza to go around.,F2,S,-30.67750923
+43,50,I generally spar with two boxers,because the two boxers are good training partners.,F1,S,-27.538782643
+44,16,"One day, I hope to interview some of my favourite footballers",but I don't know which ones.,F2,S,-17.93397183
+45,22,I request to spend New Year's with most members of my team,even though I haven't met them yet.,F2,S,-18.984366992400002
+46,34,I dropped most balls at baseball practice yesterday,"in fact, I successfully made only three of the fifteen catches possible.",F1,Sc,-54.3001446
+47,51,I always wear a jacket before going out,although it's a different one each time.,F2,S,-26.451255140000004
+48,39,I didn't win five games of tennis on Saturday,even though I was supposed to win them.,F1,S,-21.421059209
+49,11,I ordered three of my favourite items on the menu,and I know which three.,F1,Sc,-22.4636994
+50,23,I crave to eat a donut from Krispy Kreme,but I don't care which one.,F2,S,-19.47965439
+51,55,Some farmers own this donkey,and their donkeys are happy.,F2,Sc,-23.352120702
+52,12,"This holiday season, I must donate to two charities",but I don't know which ones.,F2,S,-14.739522910000002
+53,34,I dropped most balls at baseball practice yesterday,but I did make around half of the fifteen catches possible.,F2,Sc,-50.8638145
+54,66,You find every animal from The Lion King in most zoos,but don't expect to see all of them in the same zoo.,F1,S,-23.90362616
+55,47,I usually dust some shelves at home,although it's a different set of shelves each time.,F2,S,-31.266991299999997
+56,13,I want to buy a sandwich from Subway,and I know which one.,F1,S,-17.812727100000004
+57,29,I didn't notice an error in my code,and so my code didn't work properly.,F1,S,-22.129430511000002
+58,24,I gave my father five trading cards I love,but I don't know which ones.,F2,Sc,-16.08627835
+59,7,I became a fan of most ex-members of One Direction,but I don't know which ex-members those are.,F2,Sc,-31.86280562
+60,48,I frequently greet most people in my lab,since I like them even outside work.,F1,S,-33.7055049
+61,27,I starved a dog,even though I was supposed to feed him.,F1,Sc,-21.921754433600004
+62,51,I wore a jacket before going out,although it's a different one each time.,F2,Sc,-32.5012143
+63,26,I expect to finish two hikes before the end of the month,and I chose those two hikes for their low difficulty.,F1,S,-33.474309399999996
+64,6,I must win a few matches this week,but I don't know which ones.,F2,S,-15.913754240000003
+65,16,"One day, I hope to interview some of my favourite footballers",and I know which ones.,F1,S,-20.545205199999998
+66,22,I request to spend New Year's with most members of my team,because I am close to them.,F1,S,-15.722334819999999
+67,35,I failed all of my exams,"in other words, I got a grade of F in all of them.",F1,Sc,-36.10449000999999
+68,45,I occasionally consult two dentists,since I trust the two dentists.,F1,S,-27.6551081773
+69,54,I bought four lamps from IKEA,because I love those four designs.,F1,Sc,-27.682900429999997
+70,48,I greeted most people in my lab,even though it's a different set of people each time.,F2,Sc,-36.891044459999996
+71,3,A classmate of mine told me they love me,and I know which one.,F1,Sc,-21.6411941
+72,19,I deserve to work at a Fortune 500 company,because I'm perfect for that company.,F1,S,-23.68364028
+73,60,Most fast-food chains exclusively sell this brand of soda,"and in each case, the brand of soda is popular.",F2,Sc,-39.72398645999999
+74,2,I watched an episode of Tom and Jerry that I love,but I don't know which episode.,F2,Sc,-18.074909100000003
+75,8,I spoke face-to-face with most of my classmates,and I know which ones those are.,F1,Sc,-24.234084329999998
+76,34,I didn't catch most balls at baseball practice yesterday,but I did make around half of the fifteen catches possible.,F2,S,-46.1117948
+77,12,"This holiday season, I donated to two charities",and I know which ones.,F1,Sc,-22.271077599999998
+78,33,I allowed some people to leave the office early on Friday,because there's wasn't even anyone at the office on Friday.,F2,Sc,-38.80729072569999
+79,1,I met a close friend of mine in the morning,and I know which one.,F1,Sc,-25.4072151
+80,44,I occasionally dance with all my siblings,although each time it's with a different one.,F2,S,-28.229683590000004
+81,44,I occasionally dance with all my siblings,together on New Year's Eve.,F1,S,-13.32137319
+82,20,I wish to meet all the extended members of my family,because I care deeply about them.,F1,S,-18.680335599999996
+83,26,I finished two hikes before the end of the month,although I haven't chosen which two hikes yet.,F2,Sc,-36.6200876
+84,40,I didn't reject three applications for the job,despite the fact that my boss told me to reject them.,F1,S,-24.784604561999995
+85,50,I sparred with two boxers,because the two boxers are good training partners.,F1,Sc,-31.5885667241
+86,27,I didn't feed a dog,because there was no dog to feed. ,F2,S,-24.226772410000002
+87,65,All urban planners eat a few boxes of pizza,because we don't have enough pizza to go around.,F1,S,-27.829303785
+88,5,I gave myself some tattoos,but I don't know which ones.,F2,Sc,-18.688388250000003
+89,49,I often drink every bottle in the shared fridge,despite the fact that it's a different set of drinks each time.,F2,S,-37.3789062
+90,20,I wish to meet all the extended members of my family,even though I don't know who they are yet.,F2,S,-20.737214994
+91,29,I overlooked an error in my code,because my code had no errors.,F2,Sc,-20.9747424
+92,21,I aim to travel to a few countries this year,but I don't care about which ones they are.,F2,S,-25.130361620000002
+93,10,I saw two of my professors today,and I know which two.,F1,Sc,-23.011100400000004
+94,45,I occasionally consult two dentists,although it's a different pair of dentists each time.,F2,S,-33.31038831200001
+95,4,I may find some days this week to be sunny,but I don't know which days.,F2,S,-17.20766157
+96,25,I shared my playlist with three close friends,but I don't care about who they are.,F2,Sc,-29.234824549999995
+97,6,I won a few matches this week,and I know which ones.,F1,Sc,-20.9107868
+98,33,I didn't stop some people from leaving the office early on Friday,although I could have stopped them from doing so.,F1,S,-22.858745139999996
+99,17,I want to test most tools in the shop,and I know which tools those are.,F1,S,-25.286143250000002
+100,9,I must visit the majority of my neighbours,but I don't know who they are.,F2,S,-17.17142734
+101,42,I ate a few flavours from St Viateur,and it's different flavours each time.,F2,Sc,-26.9506117
+102,63,Most graduate students shop from two thrift stores,and I'm sure the two thrift stores offer great deals.,F1,S,-37.463345975
+103,1,I may meet a close friend of mine in the morning,and I know which one.,F1,S,-21.943170700000003
+104,43,I sometimes like most songs on Mario's playlist,"because they're hip-hop songs, and now and then I enjoy hip-hop.",F1,S,-45.96526629899999
+105,57,A few people own these investment stocks,"because everyone wants to buy them, and everyone can afford to.",F2,Sc,-36.12419971
+106,58,A few kitchens make food for every local orphanage,since we don't have enough kitchens for the number of orphanages.,F1,S,-32.753053973
+107,10,I might see two of my professors today,but I don't know which two.,F2,S,-14.491015130000001
+108,38,I avoided two resorts this summer,because I didn't go anywhere.,F2,Sc,-19.515160129999998
+109,44,I danced with all my siblings,although each time it's with a different one.,F2,Sc,-33.94726027
+110,21,I traveled to a few countries this year,because I've always wanted to travel to them.,F1,Sc,-22.0170283216
+111,64,Every laptop is facing a glitch,and each glitch is causing major issues to users.,F2,S,-31.793634900000004
+112,9,I visited the majority of my neighbours,and I know who they are.,F1,Sc,-15.4934716
+113,53,I drank with most people I play chess against,because they happen to also be good friends of mine.,F1,Sc,-26.443208523
+114,40,I accepted three applications for the job,because there were no applications in the first place.,F2,Sc,-21.873286849999996
+115,29,I didn't notice an error in my code,because my code had no errors.,F2,S,-19.371654200000002
+116,39,I didn't win five games of tennis on Saturday,since I didn't play any tennis on Saturday.,F2,S,-18.373948957399996
+117,42,I sometimes eat a few flavours from St Viateur,because I really like those flavours.,F1,S,-18.3262072
+118,53,I always drink with most people I play chess against,because they happen to also be good friends of mine.,F1,S,-29.106361080000006
+119,58,A few kitchens make food for these local orphanages,since we have way too many kitchens for the number of orphanages.,F2,Sc,-38.266190523
+120,60,Most fast-food chains exclusively sell a brand of soda,"and in each case, the brand of soda is popular.",F2,S,-34.85056356
+121,31,I didn't watch most of Breaking Bad,as I only watched a couple episodes.,F1,S,-23.366989200000003
+122,28,I forgot a joke told on the TV show Hannibal,even though the joke was really funny.,F1,Sc,-22.12143298
+123,18,I was friends with every person in my office,because I care about who they are.,F1,Sc,-22.7516195
+124,32,I didn't like all the books on sale,which is to say I enjoyed none of them.,F1,S,-29.403148534
+125,9,I must visit the majority of my neighbours,and I know who they are.,F1,S,-17.92227424
+126,37,I didn't condone every statement the President made,as I thought every one of them was horrible.,F1,S,-32.489956619999994
+127,30,I ignored a few professors,since there were no professors to shake hands with.,F2,Sc,-34.17977157
+128,43,I liked most songs on Mario's playlist,"because they're hip-hop songs, and now and then I enjoy hip-hop.",F1,Sc,-45.30339002999999
+129,25,I shared my playlist with three close friends,because the three of them love my playlists.,F1,Sc,-28.376585039299993
+130,52,I always rent some pieces of gear before climbing,although it's a different set of pieces of gear each time.,F2,S,-36.06618753
+131,59,Some textbooks cite three authors on colonialism,because the three of them are highly regarded.,F1,S,-28.90689316
+132,59,Some textbooks cite these three authors on colonialism,because the three of them are highly regarded.,F1,Sc,-25.101237681
+133,58,A few kitchens make food for every local orphanage,since we have way too many kitchens for the number of orphanages.,F2,S,-38.279444509
+134,8,I will likely speak face-to-face with most of my classmates,and I know which ones those are.,F1,S,-25.50164614
+135,67,All students are supervised by these two professors,since we don't have enough professors.,F1,Sc,-22.3078026
+136,57,A few people own most investment stocks,"because although everyone wants to buy them, no one else can afford to.",F1,S,-43.70344276
+137,32,I disliked all the books on sale,which is to say I enjoyed none of them.,F1,Sc,-26.311660694000004
+138,33,I allowed some people to leave the office early on Friday,although I could have stopped them from doing so.,F1,Sc,-26.371918549999993
+139,38,I didn't travel to two ski resorts this summer,even though I was supposed to go to them.,F1,S,-21.2402485038
+140,62,Most T-shirts are made by these manufacturers,while some other T-shirts are produced under exclusive licenses.,F2,Sc,-32.597528548
+141,52,I always rent some pieces of gear before climbing,since I find those pieces of gear helpful.,F1,S,-32.9079489
+142,56,Some local guitarists play with a few backing vocalists,as the backing vocalists are talented.,F1,S,-27.076241480000007
+143,28,I didn't remember a joke told on the TV show Hannibal,mostly because it's a serious drama with barely any jokes.,F2,S,-37.35278545
+144,38,I didn't travel to two ski resorts this summer,because I didn't go anywhere.,F2,S,-15.256121904
+145,54,I always buy four lamps from IKEA,because I love those four designs.,F1,S,-25.752250699999998
+146,63,Most graduate students shop from these two thrift stores,and I'm sure the two thrift stores offer great deals.,F1,Sc,-35.679216255
+147,16,"One day, I interviewed some of my favourite footballers",but I don't know which ones.,F2,Sc,-20.81007193
+148,9,I visited the majority of my neighbours,but I don't know who they are.,F2,Sc,-19.3180865
+149,55,Some farmers own a donkey,and their donkeys are happy.,F2,S,-24.245241954
+150,10,I might see two of my professors today,and I know which two.,F1,S,-21.001126499999998
+151,54,I always buy four lamps from IKEA,but it's a different four each time.,F2,S,-24.13996119
+152,26,I expect to finish two hikes before the end of the month,although I haven't chosen which two hikes yet.,F2,S,-27.016666009999998
+153,32,I disliked all the books on sale,which is to say I enjoyed only a few of them.,F2,Sc,-31.864174799999997
+154,40,I didn't reject three applications for the job,because there were no applications in the first place.,F2,S,-17.545357205500004
+155,41,I sometimes see a carpenter from my window,but it's a different one each time.,F2,S,-18.890283310000004
+156,37,I didn't condone every statement the President made,because I agreed with some of them.,F2,S,-23.498396317
+157,14,I purchased an expensive car,and I know which one.,F1,Sc,-23.690570400000002
+158,65,All urban planners eat just these few boxes of pizza,because we don't have enough pizza to go around.,F1,Sc,-25.62892778
+159,46,I hammered a wall in the morning,because I'm trying to damage that wall.,F1,Sc,-34.58432085
+160,26,I finished two hikes before the end of the month,and I chose those two hikes for their low difficulty.,F1,Sc,-32.743752799999996
+161,21,I aim to travel to a few countries this year,because I've always wanted to travel to them.,F1,S,-20.647774756
+162,3,A classmate of mine must tell me they love me,and I know which one.,F1,S,-23.2207382
+163,50,I generally spar with two boxers,although it's a different pair of boxers each time.,F2,S,-27.851255296820007
+164,4,I found some days this week to be sunny,and I know which days.,F1,Sc,-25.9828003
+165,21,I traveled to a few countries this year,but I don't care about which ones they are.,F2,Sc,-29.99210106
+166,61,Most honeybees search for these flowers,and each set of flowers is very fragrant.,F2,Sc,-36.232424783
+167,36,I hid several secret addictions I have from my family.,because I thought I would be judged for having them.,F1,Sc,-25.70853214
+168,41,I saw a carpenter from my window,but it's a different one each time.,F2,Sc,-26.47368429
+169,18,I yearn to be friends with every person in my office,but I don't care about who they are.,F2,S,-25.250568500000004
+170,49,I often drink every bottle in the shared fridge,as I like those specific drinks.,F1,S,-28.7680802
+171,30,I ignored a few professors,even though I was supposed to shake hands with them.,F1,Sc,-25.193094663399997
+172,47,I dusted some shelves at home,although it's a different set of shelves each time.,F2,Sc,-36.84923827
+173,16,"One day, I interviewed some of my favourite footballers",and I know which ones.,F1,Sc,-22.950595
+174,35,I didn't pass all of my exams,"in other words, I got a grade of F in all of them.",F1,S,-39.8487968
+175,11,I ordered three of my favourite items on the menu,but I don't know which three.,F2,Sc,-23.6712239
+176,48,I frequently greet most people in my lab,even though it's a different set of people each time.,F2,S,-33.74336847
+177,39,I lost five games of tennis on Saturday,since I didn't play any tennis on Saturday.,F2,Sc,-26.75565655
+178,5,I gave myself some tattoos,and I know which ones.,F1,Sc,-22.3796751
+179,42,I sometimes eat a few flavours from St Viateur,and it's different flavours each time.,F2,S,-24.21533368
+180,44,I danced with all my siblings,together on New Year's Eve.,F1,Sc,-15.61168758
+181,62,Most T-shirts are made by these manufacturers,as it's profitable for every manufacturer to make a wide-range of T-shirts.,F1,Sc,-50.33246338200001
+182,18,I yearn to be friends with every person in my office,because I care about who they are.,F1,S,-19.211982783
+183,43,I liked most songs on Mario's playlist,even though it's a different set of songs each time.,F2,Sc,-33.75225059
+184,14,I desire to purchase an expensive car,but I don't know which one.,F2,S,-15.69183015
+185,23,I ate a donut from Krispy Kreme,because I love that donut.,F1,Sc,-17.470681863999996
+186,24,I gave my father five trading cards I love,and I know which ones.,F1,Sc,-20.76792856
+187,11,I will probably order three of my favourite items on the menu,but I don't know which three.,F2,S,-17.517276900000002
+188,24,I owe my father five trading cards I love,but I don't know which ones.,F2,S,-14.35786302
+189,41,I saw a carpenter from my window,and I'm actually friends with that carpenter.,F1,Sc,-29.264950803999998
+190,30,I didn't shake hands with a few professors,even though I was supposed to shake hands with them.,F1,S,-20.3359940334
+191,58,A few kitchens make food for these local orphanages,since we don't have enough kitchens for the number of orphanages.,F1,Sc,-31.823503521
+192,56,Some local guitarists play with these backing vocalists,and each set of backing vocalists is talented.,F2,Sc,-31.154952626
+193,7,I might become a fan of most ex-members of One Direction,but I don't know which ex-members those are.,F2,S,-31.289305329999998
+194,64,Every laptop is facing this glitch,and the glitch is causing major issues to users.,F1,Sc,-27.487479909999998
+195,53,I always drink with most people I play chess against,even though it's a different set of people each time.,F2,S,-30.192464875000002
+196,19,I worked at a Fortune 500 company,because I'm perfect for that company.,F1,Sc,-33.582418340000004
+197,15,I was handed an item of my choice,and I know which one.,F1,Sc,-20.887870830000004
+198,43,I sometimes like most songs on Mario's playlist,even though it's a different set of songs each time.,F2,S,-28.87039012
+199,54,I bought four lamps from IKEA,but it's a different four each time.,F2,Sc,-32.479391809999996
+200,5,I will probably give myself some tattoos,but I don't know which ones.,F2,S,-13.505175259999998
+201,46,I usually hammer a wall in the morning,because I'm trying to damage that wall.,F1,S,-31.621316431
+202,13,I want to buy a sandwich from Subway,but I don't know which one.,F2,S,-12.85862402
+203,37,I condemned every statement the President made,because I agreed with some of them.,F2,Sc,-21.773139940000004
+204,24,I owe my father five trading cards I love,and I know which ones.,F1,S,-18.4479169
+205,40,I accepted three applications for the job,despite the fact that my boss told me to reject them.,F1,Sc,-23.490364859999996
+206,41,I sometimes see a carpenter from my window,and I'm actually friends with that carpenter.,F1,S,-28.579109646299997
+207,19,I worked at a Fortune 500 company,but I don't care which one.,F2,Sc,-22.971293369999998
+208,36,I didn't reveal several secret addictions I have to my family,because I don't have any secret addictions in the first place.,F2,S,-26.9853064665
+209,6,I must win a few matches this week,and I know which ones.,F1,S,-18.38401975
+210,25,I require that I share my playlist with three close friends,because the three of them love my playlists.,F1,S,-29.500844305
+211,8,I spoke face-to-face with most of my classmates,but I don't know which ones those are.,F2,Sc,-27.79360305
+212,35,I didn't pass all of my exams,since I failed two of my six exams.,F2,S,-25.351423949999997
+213,30,I didn't shake hands with a few professors,since there were no professors to shake hands with.,F2,S,-23.668625809999998
+214,47,I dusted some shelves at home,because I enjoy cleaning those shelves.,F1,Sc,-26.959082649999996
+215,3,A classmate of mine told me they love me,but I don't know which one.,F2,Sc,-17.7771907
+216,59,Some textbooks cite these three authors on colonialism,and each trio of authors is well-respected.,F2,Sc,-36.5052389
+217,17,I tested most tools in the shop,but I don't know which tools those are.,F2,Sc,-31.148992800000002
+218,64,Every laptop is facing a glitch,and the glitch is causing major issues to users.,F1,S,-27.833820629999998
+219,23,I crave to eat a donut from Krispy Kreme,because I love that donut.,F1,S,-16.120100580000003
+220,65,All urban planners eat just these few boxes of pizza,because we have more than enough pizza to go around.,F2,Sc,-27.810655988999997
+221,23,I ate a donut from Krispy Kreme,but I don't care which one.,F2,Sc,-25.8583695
+222,7,I might become a fan of most ex-members of One Direction,and I know which ex-members those are.,F1,S,-29.993541299999997
+223,25,I require that I share my playlist with three close friends,but I don't care about who they are.,F2,S,-25.378540499999996
+224,6,I won a few matches this week,but I don't know which ones.,F2,Sc,-17.91144084
+225,7,I became a fan of most ex-members of One Direction,and I know which ex-members those are.,F1,Sc,-30.104514660000003
+226,22,I spent New Year's with most members of my team,because I am close to them.,F1,Sc,-17.57858367
+227,49,I drank every bottle in the shared fridge,despite the fact that it's a different set of drinks each time.,F2,Sc,-43.93974072
+228,14,I purchased an expensive car,but I don't know which one.,F2,Sc,-20.2845819
+229,10,I saw two of my professors today,but I don't know which two.,F2,Sc,-18.075116010000002
+230,61,Most honeybees search for some flowers,because the flowers are very fragrant.,F1,S,-20.9889275866
+231,22,I spent New Year's with most members of my team,even though I haven't met them yet.,F2,Sc,-22.638192278600002
+232,28,I didn't remember a joke told on the TV show Hannibal,even though the joke was really funny.,F1,S,-18.78245598
+233,45,I consulted two dentists,since I trust the two dentists.,F1,Sc,-29.589090661
+234,11,I will probably order three of my favourite items on the menu,and I know which three.,F1,S,-19.8845927
+235,52,I rented some pieces of gear before climbing,since I find those pieces of gear helpful.,F1,Sc,-34.75418945
+236,49,I drank every bottle in the shared fridge,as I like those specific drinks.,F1,Sc,-34.3211282
+237,1,I may meet a close friend of mine in the morning,but I don't know which one.,F2,S,-15.870792100000001
+238,56,Some local guitarists play with these backing vocalists,as the backing vocalists are talented.,F1,Sc,-21.55626835
+239,52,I rented some pieces of gear before climbing,although it's a different set of pieces of gear each time.,F2,Sc,-42.558633640000004
+240,66,You find every animal from The Lion King in this zoo,but don't expect to see all of them in the same zoo.,F1,Sc,-29.036405160000005
+241,38,I avoided two resorts this summer,even though I was supposed to go to them.,F1,Sc,-20.812027598999997
+242,66,You find every animal from The Lion King in this zoo,but other zoos each only have half of them.,F2,Sc,-39.334892277
+243,15,I demand that I am handed an item of my choice,and I know which one.,F1,S,-19.5158329
+244,27,I starved a dog,because there was no dog to feed. ,F2,Sc,-29.245557399999996
+245,35,I failed all of my exams,since I failed two of my six exams.,F2,Sc,-30.0674387
+246,45,I consulted two dentists,although it's a different pair of dentists each time.,F2,Sc,-39.087060629999996
+247,42,I ate a few flavours from St Viateur,because I really like those flavours.,F1,Sc,-20.428020399999998
+248,46,I hammered a wall in the morning,but it's a different wall each time.,F2,Sc,-26.16934294
+249,13,I bought a sandwich from Subway,and I know which one.,F1,Sc,-21.8099819
+250,36,I hid several secret addictions I have from my family.,because I don't have any secret addictions in the first place.,F2,Sc,-39.4781089174
+251,2,I watched an episode of Tom and Jerry that I love,and I know which episode.,F1,Sc,-22.2623694
+252,39,I lost five games of tennis on Saturday,even though I was supposed to win them.,F1,Sc,-18.8301554523
+253,33,I didn't stop some people from leaving the office early on Friday,because there's wasn't even anyone at the office on Friday.,F2,S,-33.537061234999996
+254,15,I was handed an item of my choice,but I don't know which one.,F2,Sc,-18.067769700000003
+255,28,I forgot a joke told on the TV show Hannibal,mostly because it's a serious drama with barely any jokes.,F2,Sc,-43.5283564
+256,12,"This holiday season, I donated to two charities",but I don't know which ones.,F2,Sc,-20.4508233
+257,4,I found some days this week to be sunny,but I don't know which days.,F2,Sc,-20.4651821
+258,5,I will probably give myself some tattoos,and I know which ones.,F1,S,-17.828165230000003
+259,55,Some farmers own a donkey,and the donkey is happy.,F1,S,-18.800385
+260,12,"This holiday season, I must donate to two charities",and I know which ones.,F1,S,-16.3853829
+261,14,I desire to purchase an expensive car,and I know which one.,F1,S,-19.3730755
+262,18,I was friends with every person in my office,but I don't care about who they are.,F2,Sc,-28.534414030000004
+263,29,I overlooked an error in my code,and so my code didn't work properly.,F1,Sc,-20.57614019
+264,32,I didn't like all the books on sale,which is to say I enjoyed only a few of them.,F2,S,-32.14912073
+265,36,I didn't reveal several secret addictions I have to my family,because I thought I would be judged for having them.,F1,S,-20.58606379
+266,4,I may find some days this week to be sunny,and I know which days.,F1,S,-23.66311196
+267,15,I demand that I am handed an item of my choice,but I don't know which one.,F2,S,-18.64244507
